@@ -1,6 +1,6 @@
 # Query Agent
 
-Note: please refer document session in the above codes to understand the workflow & output of the project.
+Note: please refer both pdfs in document session in the above codes to understand the workflow & output of the project.
 
 ---
 
